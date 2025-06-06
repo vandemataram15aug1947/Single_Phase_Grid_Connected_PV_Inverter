@@ -1,4 +1,4 @@
-# Single_Stage_Single_Phase_Grid_Connected_PV_Solar_Inverter
+# Single_Stage_Single_Phase_Grid_Connected_PV_Solar_Inverters
 
 This repository contains the code and supporting resources for a research project focused on the design and control of a **Single-Phase Grid Connected PV Solar Inverter**.
 
